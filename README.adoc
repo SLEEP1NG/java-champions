@@ -362,7 +362,7 @@
 |2016
 
 |{counter:idx}
-|image:https://avatars.io/twitter/deitel/medium[]
+|image:https://ibb.co/sgyRnRB[]
 |Paul J. Deitel
 |https://twitter.com/deitel[@deitel]
 |USA
